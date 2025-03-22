@@ -1,0 +1,6 @@
+python-telegram-bot==20.8
+pybit==3.3.0
+feedparser
+pandas
+ta
+
